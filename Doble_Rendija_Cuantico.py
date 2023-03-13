@@ -1,8 +1,9 @@
+# Juan Pablo Nieto Cortes
+
 import libreria_complejos as lc
 import numpy as np
 import matplotlib.pyplot as plt
 import Vectores_matrices as vc
-from tkinter import messagebox
 import math
 
 
